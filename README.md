@@ -336,15 +336,15 @@ Interactive Dashboard
 
 ## Dashboard
 
-```markdown
-assets/dashboard.png
-```
+
+![Dashboard](dashboard.png)
+
 
 ## Prediction Output
 
-```markdown
-assets/prediction.png
-```
+
+![Predictions](prediction.png)
+
 
 ---
 
